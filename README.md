@@ -248,13 +248,13 @@ pytest
 
 | Service | Owner |
 |---|---|
-| Chat Service | _your name_ |
-| Auth + Gateway | _name_ |
-| Listings + Moderation | _name_ |
-| Skill Exchange | _name_ |
+| Chat Service | G.A.P.Lakmal|
+| Auth + Gateway | H.G.A.D Kavinda |
+| Listings + Moderation | W.A.R.R. Weragoda |
+| Skill Exchange | H.C. Wijesinghe |
 
 ---
 
 ## License
 
-For academic use as part of a university project.
+For academic use as part of a OUSL university project.
